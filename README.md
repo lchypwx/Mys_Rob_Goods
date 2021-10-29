@@ -7,7 +7,7 @@
 * [云函数部署](#云函数部署)
 * [Cookies获取](#Cookies获取)
 * [所需环境变量](#所需环境变量)
-* [服务器名](#服务器名（待补充）)
+* [服务器名](#服务器名)
 ## 使用说明  
 * 上传代码包[点击下载代码包](https://github.com/TuanKay10/Mys_Goods_Rob/releases/download/Mys_Goods_Rob/myb_goods.zip)  
 * 通过[环境变量](#所需环境变量)配置参数  
