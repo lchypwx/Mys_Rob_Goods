@@ -20,4 +20,4 @@
 |  服务器  |  server  |  `cn_gf01`/`cn_qd01`  | cn_gf01  | 对应游戏的服务器，默认原神官服  |
 |  兑换数量  |  exchange_num  |  ----  | 1  | 选填，小于兑换限制即可  |
 |  分区  |  biz  |  `hk4e_cn`/`bh3_cn`/`bh2_cn`/`nxx_cn`  | hk4e_cn  | 必填，默认原神分区  |
-|  Server酱  |  SCTkey  |  ----  | SCT  | 前往ServerChan官网登录获取[ServerChan](https://sct.ftqq.com/sendkey)  |
+|  Server酱  |  SCTkey  |  ----  | SCT  | 选填，前往ServerChan官网登录获取[ServerChan](https://sct.ftqq.com/sendkey)  |
