@@ -19,3 +19,4 @@
 |  地址id  |  address  |  ----  |  
 |  服务器  |  server  |  ----  |  
 |  biz  |  biz  |  ----  |  
+|  Server酱  |  SCTkey  |  ----  |  
