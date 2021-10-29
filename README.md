@@ -27,7 +27,7 @@
 ![NBB6ZBLV8 JFSTWDNS2`FD5](https://user-images.githubusercontent.com/91844313/139439512-204df4ee-c313-41dd-8433-c45f2747f87a.png)  
 * 配置环境变量  
 ![ND629N1_Q5OW)LTBNJOD9IN](https://user-images.githubusercontent.com/91844313/139438642-0404c494-dcc6-41a0-b6a7-c3e03b98ec44.png)  
-[参考环境变量](https://github.com/TuanKay10/Mys_Goods_Rob#%E6%89%80%E9%9C%80%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F)
+[参考环境变量](#所需环境变量)
 ## Cookies获取  
 * [登录](https://user.mihoyo.com/#/login/password)前按下`F12`在右边的窗口里找到`Cookie`  
 ![image](https://user-images.githubusercontent.com/91844313/139436614-8920e006-d68d-43f9-b214-3e745687d742.png)
