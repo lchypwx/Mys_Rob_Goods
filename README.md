@@ -11,13 +11,13 @@
 * 部署完成，可以摸鱼了  
 
 ## 所需环境变量  
-|  变量名  |  key  |  value  |  默认  |  获取方式  |
+|  变量名  |  key  |  value  |  默认  |  value	获取方式  |
 |  ----  | ----  | ----  | ----  | ----  |
-|  商品id  |  goods_id  |  ----  | 2021102012224  | 必填，通过`good_list.py`获取，选择所需商品的id即可  |
-|  米游社cookies  |  mys_cookies  |  ----  | 23333  | 必填，详见获取方式  |
+|  商品id  |  goods_id  |  ----  | ----  | 必填，通过`good_list.py`获取，选择所需商品的id即可  |
+|  米游社cookies  |  mys_cookies  |  ----  | ----  | 必填，详见获取方式  |
 |  UID  |  uid  |  ----  | ----  | 必填，原神商品分区填原神uid，米游社商品分区填米游社id，未定，崩坏2，崩坏3同理  |
 |  地址id  |  address  |  ----  | ----  | 代表你的收货地址 获取  |
-|  服务器  |  server  |  ----  | cn_gf01  | 对应游戏的服务器，默认原神官服  |
+|  服务器  |  server  |  `cn_gf01`/`cn_qd01`  | cn_gf01  | 对应游戏的服务器，默认原神官服  |
 |  兑换数量  |  exchange_num  |  ----  | 1  | 选填，小于兑换限制即可  |
-|  biz  |  biz  |  ----  | ----  | ----  |
-|  Server酱  |  SCTkey  |  ----  | ----  | ----  |
+|  分区  |  biz  |  `hk4e_cn`/`bh3_cn`/`bh2_cn`/`nxx_cn`  | hk4e_cn  | 必填，默认原神分区  |
+|  Server酱  |  SCTkey  |  ----  | SCT  | 前往ServerChan官网登录获取[ServerChan](https://sct.ftqq.com/sendkey)  |
