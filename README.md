@@ -17,7 +17,7 @@
 |  商品id  |  goods_id  |  ----  | ----  | 必填，通过`good_list.py`获取，选择所需商品的id即可  |
 |  米游社cookies  |  mys_cookies  |  ----  | ----  | 必填，详见[Cookies获取](https://github.com/TuanKay10/Mys_Goods_Rob#cookies%E8%8E%B7%E5%8F%96)  |
 |  UID  |  uid  |  ----  | ----  | 必填，原神商品分区填原神uid，米游社商品分区填米游社id，未定，崩坏2，崩坏3同理  |
-|  地址id  |  address  |  ----  | ----  | 代表你的收货地址，网页登录米游社后，点击[获取](https://api-takumi.mihoyo.com/account/address/list)，查看对应的id，一般为4位数  |
+|  地址id  |  address  |  ----  | ----  | 代表你的收货地址，[网页登录米游社](https://user.mihoyo.com/#/account/home)后，点击[获取](https://api-takumi.mihoyo.com/account/address/list)，查看对应的id，一般为4位数  |
 |  服务器  |  server  |  `cn_gf01`/`cn_qd01`  | `cn_gf01`  | 对应游戏的服务器，默认原神官服，此处仅列举原神，详见[服务器名](https://github.com/TuanKay10/Mys_Goods_Rob#%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%90%8D)  |
 |  兑换数量  |  exchange_num  |  ----  | 1  | 选填，小于兑换限制即可  |
 |  商品分区  |  biz  |  `hk4e_cn`/`bh3_cn`/`bh2_cn`/`nxx_cn`  | `hk4e_cn`  | 必填，默认原神分区  |
