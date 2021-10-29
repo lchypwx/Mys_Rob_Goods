@@ -9,7 +9,7 @@
 * [所需环境变量](https://github.com/TuanKay10/Mys_Goods_Rob#%E6%89%80%E9%9C%80%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F)
 * [服务器名](https://github.com/TuanKay10/Mys_Goods_Rob#%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%90%8D%E5%BE%85%E8%A1%A5%E5%85%85)
 ## 使用说明  
-* 上传代码包  
+* 上传代码包[点击下载代码包](https://github.com/TuanKay10/Mys_Goods_Rob/releases/download/Mys_Goods_Rob/myb_goods.zip)  
 * 通过[环境变量](https://github.com/TuanKay10/Mys_Goods_Rob#%E6%89%80%E9%9C%80%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F)配置参数  
   * 根据`goods_list.py`所获取的信息填写所需商品的`goods_id`  
     * 会打包成`.exe`方便方便使用[下载地址](https://github.com/TuanKay10/Mys_Goods_Rob/releases/download/Mys_Goods_Rob/goods_list.exe)
