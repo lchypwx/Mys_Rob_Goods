@@ -23,7 +23,7 @@
 ![S$%)@J63G82YAEW %4Y)VRU](https://user-images.githubusercontent.com/91844313/139437638-d4aa5418-253d-4ac9-9a43-a0331d039e77.png)  
 * 上传代码包
 ![0YSAWR}~ 7DTQD4EMFM`1LT](https://user-images.githubusercontent.com/91844313/139438027-47a900f7-2d5c-4fb3-aa2a-123167e3bc2a.png)  
-* 获取商品id
+* 获取商品id  
 ![NBB6ZBLV8 JFSTWDNS2`FD5](https://user-images.githubusercontent.com/91844313/139439512-204df4ee-c313-41dd-8433-c45f2747f87a.png)  
 * 配置环境变量
 ![ND629N1_Q5OW)LTBNJOD9IN](https://user-images.githubusercontent.com/91844313/139438642-0404c494-dcc6-41a0-b6a7-c3e03b98ec44.png)  
