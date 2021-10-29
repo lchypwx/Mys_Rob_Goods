@@ -18,8 +18,15 @@
 |  米游社cookies  |  mys_cookies  |  ----  | ----  | 必填，详见[Cookies获取](https://github.com/TuanKay10/Mys_Goods_Rob#cookies%E8%8E%B7%E5%8F%96)  |
 |  UID  |  uid  |  ----  | ----  | 必填，原神商品分区填原神uid，米游社商品分区填米游社id，未定，崩坏2，崩坏3同理  |
 |  地址id  |  address  |  ----  | ----  | 代表你的收货地址，网页登录米游社后，点击[获取](https://api-takumi.mihoyo.com/account/address/list)，查看对应的id，一般为4位数  |
-|  服务器  |  server  |  `cn_gf01`/`cn_qd01`  | cn_gf01  | 对应游戏的服务器，默认原神官服，此处仅列举原神，详见[服务器名]()  |
+|  服务器  |  server  |  `cn_gf01`/`cn_qd01`  | cn_gf01  | 对应游戏的服务器，默认原神官服，此处仅列举原神，详见[服务器名](https://github.com/TuanKay10/Mys_Goods_Rob#%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%90%8D)  |
 |  兑换数量  |  exchange_num  |  ----  | 1  | 选填，小于兑换限制即可  |
 |  商品分区  |  biz  |  `hk4e_cn`/`bh3_cn`/`bh2_cn`/`nxx_cn`  | hk4e_cn  | 必填，默认原神分区  |
 |  Server酱  |  SCTkey  |  ----  | SCT  | 选填，前往[ServerChan](https://sct.ftqq.com/sendkey)官网登录获取  |
-## 服务器名
+## 服务器名（待补充）
+|  名称  |  服务器名  |  商品分区  |
+|  ----  | ----  | ----  |
+|  米游社  | ----  | bbs  |
+|  原神  | `cn_gf01`(官服)/`cn_qd01`（渠道服，如b服，小米服）  | hk4e_cn  |
+|  崩坏三  | `android01`(安卓1服)/`pc01`(桌面服)  | bh3_cn  |
+|  崩坏二  | `gf01`(国服01)  | bh2_cn  |
+|  未定事件簿  | `cn_prod_gf01`(官方服)  | nxx_cn  |
