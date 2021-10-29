@@ -43,7 +43,6 @@
 |  商品分区  |  biz  |  `hk4e_cn`/`bh3_cn`/`bh2_cn`/`nxx_cn`  | `hk4e_cn`  | 必填，默认原神分区  |
 |  Server酱  |  SCTkey  |  ----  | SCT  | 选填，消息推送前往[ServerChan](https://sct.ftqq.com/sendkey)官网登录获取  |
 ## 服务器名
-* 待补充  
 |  名称  |  服务器名  |  商品分区  |
 |  ----  | ----  | ----  |
 |  米游社  | ----  | bbs  |
@@ -51,3 +50,4 @@
 |  崩坏三  | `android01`(安卓1服)/`pc01`(桌面服)  | bh3_cn  |
 |  崩坏二  | `gf01`(国服01)  | bh2_cn  |
 |  未定事件簿  | `cn_prod_gf01`(官方服)  | nxx_cn  |
+ * 待补充  
