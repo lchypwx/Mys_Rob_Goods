@@ -8,3 +8,12 @@
 * 测试能否正常运行  
 * 配置定时触发器（cron表达式）  
 * 部署完成，可以摸鱼了  
+# 所需环境变量  
+|  变量名  |  key  |  value  |
+|  ----  | ----  | ----  |
+|  商品id  |  goods_id  |  ----  |  
+|  米游社cookies  |  mys_cookies  |  ----  |  
+|  UID  |  uid  |  ----  |  
+|  地址id  |  address  |  ----  |  
+|  服务器  |  server  |  ----  |  
+|  biz  |  biz  |  ----  |  
