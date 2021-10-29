@@ -9,10 +9,17 @@
 * 测试能否正常运行  
 * 配置定时触发器（cron表达式）  
 * 部署完成，可以摸鱼了  
+## 云函数部署（此处采用腾讯云函数）
+* 新建函数
+![S$%)@J63G82YAEW %4Y)VRU](https://user-images.githubusercontent.com/91844313/139437638-d4aa5418-253d-4ac9-9a43-a0331d039e77.png)
+* 上传代码包
+![0YSAWR}~ 7DTQD4EMFM`1LT](https://user-images.githubusercontent.com/91844313/139438027-47a900f7-2d5c-4fb3-aa2a-123167e3bc2a.png)
+* 配置环境变量
+![ND629N1_Q5OW)LTBNJOD9IN](https://user-images.githubusercontent.com/91844313/139438642-0404c494-dcc6-41a0-b6a7-c3e03b98ec44.png)
+[参考环境变量](https://github.com/TuanKay10/Mys_Goods_Rob#%E6%89%80%E9%9C%80%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F)
 ## Cookies获取  
 * [登录](https://user.mihoyo.com/#/login/password)前按下`F12`在右边的窗口里找到`Cookie`  
 ![image](https://user-images.githubusercontent.com/91844313/139436614-8920e006-d68d-43f9-b214-3e745687d742.png)
-
 ## 所需环境变量  
 |  变量名  |  key  |  value  |  默认  |  value	获取方式  |
 |  ----  | ----  | ----  | ----  | ----  |
