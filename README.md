@@ -13,7 +13,7 @@
 ## 所需环境变量  
 |  变量名  |  key  |  value  |  获取方式  |
 |  ----  | ----  | ----  | ----  |
-|  商品id  |  goods_id  |  ----  | ----  |
+|  商品id  |  goods_id  |  ----  | 通过`good_list.py`获取，选择所需商品的id即可  |
 |  米游社cookies  |  mys_cookies  |  ----  | ----  |
 |  UID  |  uid  |  ----  | ----  |
 |  地址id  |  address  |  ----  | ----  |
