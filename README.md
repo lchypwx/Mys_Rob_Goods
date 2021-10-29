@@ -42,7 +42,7 @@
 |  兑换数量  |  exchange_num  |  ----  | 1  | 选填，小于兑换限制即可  |
 |  商品分区  |  biz  |  `hk4e_cn`/`bh3_cn`/`bh2_cn`/`nxx_cn`  | `hk4e_cn`  | 必填，默认原神分区  |
 |  Server酱  |  SCTkey  |  ----  | SCT  | 选填，消息推送前往[ServerChan](https://sct.ftqq.com/sendkey)官网登录获取  |
-|  时区  | TZ  | ----  | 腾讯云默认是啥我忘了  | 选填，建议使用`Asia/Shanghai`  |
+|  时区  | TZ  | ----  | 腾讯云函数默认采用全球标准时间，即零时区  | 选填，建议使用`Asia/Shanghai`  |
 ## 服务器名
 |  名称  |  服务器名  |  商品分区  |
 |  ----  | ----  | ----  |
