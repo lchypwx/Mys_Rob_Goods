@@ -1,5 +1,8 @@
 # Mys_Goods_Rob 米游社商店兑换工具（云函数）  
-## 快速使用  
+## 使用效果  
+![BYJLHE~JLB8A~XM8 J$18S0](https://user-images.githubusercontent.com/91844313/139441304-f6f9fd51-8429-4dfe-98a8-9f9770100598.jpg)
+
+## 快速使用 
 * [使用说明](https://github.com/TuanKay10/Mys_Goods_Rob#%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
 * [云函数部署](https://github.com/TuanKay10/Mys_Goods_Rob#%E4%BA%91%E5%87%BD%E6%95%B0%E9%83%A8%E7%BD%B2%E6%AD%A4%E5%A4%84%E9%87%87%E7%94%A8%E8%85%BE%E8%AE%AF%E4%BA%91%E5%87%BD%E6%95%B0)
 * [Cookies获取](https://github.com/TuanKay10/Mys_Goods_Rob#cookies%E8%8E%B7%E5%8F%96)
