@@ -21,7 +21,7 @@
 |  服务器  |  server  |  `cn_gf01`/`cn_qd01`  | `cn_gf01`  | 对应游戏的服务器，默认原神官服，此处仅列举原神，详见[服务器名](https://github.com/TuanKay10/Mys_Goods_Rob#%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%90%8D)  |
 |  兑换数量  |  exchange_num  |  ----  | 1  | 选填，小于兑换限制即可  |
 |  商品分区  |  biz  |  `hk4e_cn`/`bh3_cn`/`bh2_cn`/`nxx_cn`  | `hk4e_cn`  | 必填，默认原神分区  |
-|  Server酱  |  SCTkey  |  ----  | SCT  | 选填，前往[ServerChan](https://sct.ftqq.com/sendkey)官网登录获取  |
+|  Server酱  |  SCTkey  |  ----  | SCT  | 选填，消息推送前往[ServerChan](https://sct.ftqq.com/sendkey)官网登录获取  |
 ## 服务器名（待补充）
 |  名称  |  服务器名  |  商品分区  |
 |  ----  | ----  | ----  |
