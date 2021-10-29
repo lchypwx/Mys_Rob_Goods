@@ -1,7 +1,7 @@
 # Mys_Goods_Rob 米游社商店兑换工具（云函数）  
 ## 使用说明  
 * 上传代码包  
-* 通过环境变量配置参数  
+* 通过[环境变量](https://github.com/TuanKay10/Mys_Goods_Rob#%E6%89%80%E9%9C%80%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F)配置参数  
   * 根据`goods_list.py`所获取的信息填写所需商品的`goods_id`  
     * 会打包成`.exe`方便方便使用
   * 下文将详细说明`mys_cookies`,`goods_id`,`uid`,`address`,`server`,`biz`等参数的获取方法  
