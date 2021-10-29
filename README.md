@@ -1,10 +1,10 @@
 # Mys_Goods_Rob 米游社商店兑换工具（云函数）  
 ## 快速使用  
-* [使用说明]()
-* [云函数部署]()
-* [Cookies获取]()
-* [所需环境变量]()
-* [服务器名]()
+* [使用说明](https://github.com/TuanKay10/Mys_Goods_Rob#%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
+* [云函数部署](https://github.com/TuanKay10/Mys_Goods_Rob#%E4%BA%91%E5%87%BD%E6%95%B0%E9%83%A8%E7%BD%B2%E6%AD%A4%E5%A4%84%E9%87%87%E7%94%A8%E8%85%BE%E8%AE%AF%E4%BA%91%E5%87%BD%E6%95%B0)
+* [Cookies获取](https://github.com/TuanKay10/Mys_Goods_Rob#cookies%E8%8E%B7%E5%8F%96)
+* [所需环境变量](https://github.com/TuanKay10/Mys_Goods_Rob#%E6%89%80%E9%9C%80%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F)
+* [服务器名](https://github.com/TuanKay10/Mys_Goods_Rob#%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%90%8D%E5%BE%85%E8%A1%A5%E5%85%85)
 ## 使用说明  
 * 上传代码包  
 * 通过[环境变量](https://github.com/TuanKay10/Mys_Goods_Rob#%E6%89%80%E9%9C%80%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F)配置参数  
