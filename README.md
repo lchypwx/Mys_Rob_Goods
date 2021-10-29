@@ -10,6 +10,8 @@
 * 配置定时触发器（cron表达式）  
 * 部署完成，可以摸鱼了  
 ## Cookies获取  
+* [登录](https://user.mihoyo.com/#/login/password)前按下`F12`在右边的窗口里找到`Cookie`  
+![image](https://user-images.githubusercontent.com/91844313/139436614-8920e006-d68d-43f9-b214-3e745687d742.png)
 
 ## 所需环境变量  
 |  变量名  |  key  |  value  |  默认  |  value	获取方式  |
