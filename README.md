@@ -1,13 +1,14 @@
 # Mys_Goods_Rob 米游社商店兑换工具（云函数）  
-## 使用效果  
-![BYJLHE~JLB8A~XM8 J$18S0](https://user-images.githubusercontent.com/91844313/139441304-f6f9fd51-8429-4dfe-98a8-9f9770100598.jpg)
-
 ## 快速使用 
+* [使用效果](#使用效果)
 * [使用说明](#使用说明)
 * [云函数部署](#云函数部署)
 * [Cookies获取](#Cookies获取)
 * [所需环境变量](#所需环境变量)
 * [服务器名](#服务器名)
+## 使用效果  
+![BYJLHE~JLB8A~XM8 J$18S0](https://user-images.githubusercontent.com/91844313/139441304-f6f9fd51-8429-4dfe-98a8-9f9770100598.jpg)
+
 ## 使用说明  
 * 上传代码包[点击下载代码包](https://github.com/TuanKay10/Mys_Goods_Rob/releases/download/Mys_Goods_Rob/myb_goods.zip)  
 * 通过[环境变量](#所需环境变量)配置参数  
